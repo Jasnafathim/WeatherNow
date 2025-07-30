@@ -26,3 +26,14 @@
 1. User enters the **city name** in the input box.
 2. On clicking the search button, the app makes a request to the **OpenWeatherMap API**.
 3. Weather data is retrieved and displayed dynamically on the webpage.
+
+## Screenshots
+
+- **Dashboard**
+![image alt](screenshots/1-Homepage.png)
+   
+- **Show Weather**
+![image alt](screenshots/2-Show-weather.png)
+   
+- **Error**
+![image alt](screenshots/3-Error.png)
